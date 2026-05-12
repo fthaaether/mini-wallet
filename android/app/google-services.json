@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35298345559",
+    "project_id": "mini-wallet-b4fce",
+    "storage_bucket": "mini-wallet-b4fce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35298345559:android:25a3a13019e55711745912",
+        "android_client_info": {
+          "package_name": "com.example.mini_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0MT62O6oPN93YdhFn_g7m4iaPJK2xZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
